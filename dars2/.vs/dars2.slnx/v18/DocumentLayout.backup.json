@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Coding\\DotNet\\UchinchiModul\\dars2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E1902BE-DBE6-1233-C7BA-18F627343F48}|src\\SocialMedia.Api\\SocialMedia.Api.csproj|d:\\coding\\dotnet\\uchinchimodul\\dars2\\src\\socialmedia.api\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E1902BE-DBE6-1233-C7BA-18F627343F48}|src\\SocialMedia.Api\\SocialMedia.Api.csproj|solutionrelative:src\\socialmedia.api\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E1902BE-DBE6-1233-C7BA-18F627343F48}|src\\SocialMedia.Api\\SocialMedia.Api.csproj|d:\\coding\\dotnet\\uchinchimodul\\dars2\\src\\socialmedia.api\\services\\postservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E1902BE-DBE6-1233-C7BA-18F627343F48}|src\\SocialMedia.Api\\SocialMedia.Api.csproj|solutionrelative:src\\socialmedia.api\\services\\postservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E1902BE-DBE6-1233-C7BA-18F627343F48}|src\\SocialMedia.Api\\SocialMedia.Api.csproj|d:\\coding\\dotnet\\uchinchimodul\\dars2\\src\\socialmedia.api\\services\\ipostservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E1902BE-DBE6-1233-C7BA-18F627343F48}|src\\SocialMedia.Api\\SocialMedia.Api.csproj|solutionrelative:src\\socialmedia.api\\services\\ipostservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E1902BE-DBE6-1233-C7BA-18F627343F48}|src\\SocialMedia.Api\\SocialMedia.Api.csproj|d:\\coding\\dotnet\\uchinchimodul\\dars2\\src\\socialmedia.api\\appdbcontext\\data.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3E1902BE-DBE6-1233-C7BA-18F627343F48}|src\\SocialMedia.Api\\SocialMedia.Api.csproj|solutionrelative:src\\socialmedia.api\\appdbcontext\\data.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E1902BE-DBE6-1233-C7BA-18F627343F48}|src\\SocialMedia.Api\\SocialMedia.Api.csproj|d:\\coding\\dotnet\\uchinchimodul\\dars2\\src\\socialmedia.api\\dtos\\postcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E1902BE-DBE6-1233-C7BA-18F627343F48}|src\\SocialMedia.Api\\SocialMedia.Api.csproj|solutionrelative:src\\socialmedia.api\\dtos\\postcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E1902BE-DBE6-1233-C7BA-18F627343F48}|src\\SocialMedia.Api\\SocialMedia.Api.csproj|d:\\coding\\dotnet\\uchinchimodul\\dars2\\src\\socialmedia.api\\dtos\\postgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E1902BE-DBE6-1233-C7BA-18F627343F48}|src\\SocialMedia.Api\\SocialMedia.Api.csproj|solutionrelative:src\\socialmedia.api\\dtos\\postgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E1902BE-DBE6-1233-C7BA-18F627343F48}|src\\SocialMedia.Api\\SocialMedia.Api.csproj|d:\\coding\\dotnet\\uchinchimodul\\dars2\\src\\socialmedia.api\\dtos\\postupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E1902BE-DBE6-1233-C7BA-18F627343F48}|src\\SocialMedia.Api\\SocialMedia.Api.csproj|solutionrelative:src\\socialmedia.api\\dtos\\postupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E1902BE-DBE6-1233-C7BA-18F627343F48}|src\\SocialMedia.Api\\SocialMedia.Api.csproj|d:\\coding\\dotnet\\uchinchimodul\\dars2\\src\\socialmedia.api\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E1902BE-DBE6-1233-C7BA-18F627343F48}|src\\SocialMedia.Api\\SocialMedia.Api.csproj|solutionrelative:src\\socialmedia.api\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E1902BE-DBE6-1233-C7BA-18F627343F48}|src\\SocialMedia.Api\\SocialMedia.Api.csproj|d:\\coding\\dotnet\\uchinchimodul\\dars2\\src\\socialmedia.api\\entities\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E1902BE-DBE6-1233-C7BA-18F627343F48}|src\\SocialMedia.Api\\SocialMedia.Api.csproj|solutionrelative:src\\socialmedia.api\\entities\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PostsController.cs",
+              "DocumentMoniker": "D:\\Coding\\DotNet\\UchinchiModul\\dars2\\src\\SocialMedia.Api\\Controllers\\PostsController.cs",
+              "RelativeDocumentMoniker": "src\\SocialMedia.Api\\Controllers\\PostsController.cs",
+              "ToolTip": "D:\\Coding\\DotNet\\UchinchiModul\\dars2\\src\\SocialMedia.Api\\Controllers\\PostsController.cs*",
+              "RelativeToolTip": "src\\SocialMedia.Api\\Controllers\\PostsController.cs*",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwCoAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T12:38:12.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IPostService.cs",
+              "DocumentMoniker": "D:\\Coding\\DotNet\\UchinchiModul\\dars2\\src\\SocialMedia.Api\\Services\\IPostService.cs",
+              "RelativeDocumentMoniker": "src\\SocialMedia.Api\\Services\\IPostService.cs",
+              "ToolTip": "D:\\Coding\\DotNet\\UchinchiModul\\dars2\\src\\SocialMedia.Api\\Services\\IPostService.cs",
+              "RelativeToolTip": "src\\SocialMedia.Api\\Services\\IPostService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T12:15:03.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PostService.cs",
+              "DocumentMoniker": "D:\\Coding\\DotNet\\UchinchiModul\\dars2\\src\\SocialMedia.Api\\Services\\PostService.cs",
+              "RelativeDocumentMoniker": "src\\SocialMedia.Api\\Services\\PostService.cs",
+              "ToolTip": "D:\\Coding\\DotNet\\UchinchiModul\\dars2\\src\\SocialMedia.Api\\Services\\PostService.cs",
+              "RelativeToolTip": "src\\SocialMedia.Api\\Services\\PostService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T12:14:17.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Data.json",
+              "DocumentMoniker": "D:\\Coding\\DotNet\\UchinchiModul\\dars2\\src\\SocialMedia.Api\\AppDBContext\\Data.json",
+              "RelativeDocumentMoniker": "src\\SocialMedia.Api\\AppDBContext\\Data.json",
+              "ToolTip": "D:\\Coding\\DotNet\\UchinchiModul\\dars2\\src\\SocialMedia.Api\\AppDBContext\\Data.json",
+              "RelativeToolTip": "src\\SocialMedia.Api\\AppDBContext\\Data.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAADrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-05T12:12:49.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PostUpdateDto.cs",
+              "DocumentMoniker": "D:\\Coding\\DotNet\\UchinchiModul\\dars2\\src\\SocialMedia.Api\\Dtos\\PostUpdateDto.cs",
+              "RelativeDocumentMoniker": "src\\SocialMedia.Api\\Dtos\\PostUpdateDto.cs",
+              "ToolTip": "D:\\Coding\\DotNet\\UchinchiModul\\dars2\\src\\SocialMedia.Api\\Dtos\\PostUpdateDto.cs",
+              "RelativeToolTip": "src\\SocialMedia.Api\\Dtos\\PostUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T12:07:15.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PostGetDto.cs",
+              "DocumentMoniker": "D:\\Coding\\DotNet\\UchinchiModul\\dars2\\src\\SocialMedia.Api\\Dtos\\PostGetDto.cs",
+              "RelativeDocumentMoniker": "src\\SocialMedia.Api\\Dtos\\PostGetDto.cs",
+              "ToolTip": "D:\\Coding\\DotNet\\UchinchiModul\\dars2\\src\\SocialMedia.Api\\Dtos\\PostGetDto.cs",
+              "RelativeToolTip": "src\\SocialMedia.Api\\Dtos\\PostGetDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T12:06:41.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PostCreateDto.cs",
+              "DocumentMoniker": "D:\\Coding\\DotNet\\UchinchiModul\\dars2\\src\\SocialMedia.Api\\Dtos\\PostCreateDto.cs",
+              "RelativeDocumentMoniker": "src\\SocialMedia.Api\\Dtos\\PostCreateDto.cs",
+              "ToolTip": "D:\\Coding\\DotNet\\UchinchiModul\\dars2\\src\\SocialMedia.Api\\Dtos\\PostCreateDto.cs",
+              "RelativeToolTip": "src\\SocialMedia.Api\\Dtos\\PostCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T12:05:59.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Coding\\DotNet\\UchinchiModul\\dars2\\src\\SocialMedia.Api\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "src\\SocialMedia.Api\\Entities\\User.cs",
+              "ToolTip": "D:\\Coding\\DotNet\\UchinchiModul\\dars2\\src\\SocialMedia.Api\\Entities\\User.cs",
+              "RelativeToolTip": "src\\SocialMedia.Api\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T12:04:02.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Post.cs",
+              "DocumentMoniker": "D:\\Coding\\DotNet\\UchinchiModul\\dars2\\src\\SocialMedia.Api\\Entities\\Post.cs",
+              "RelativeDocumentMoniker": "src\\SocialMedia.Api\\Entities\\Post.cs",
+              "ToolTip": "D:\\Coding\\DotNet\\UchinchiModul\\dars2\\src\\SocialMedia.Api\\Entities\\Post.cs",
+              "RelativeToolTip": "src\\SocialMedia.Api\\Entities\\Post.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T12:03:13.977Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
