@@ -1,0 +1,15 @@
+D:\Coding\DotNet\UchinchiModul\dars8\dars8\obj\Debug\net10.0\dars8.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\DotNet\UchinchiModul\dars8\dars8\obj\Debug\net10.0\dars8.AssemblyInfoInputs.cache
+D:\Coding\DotNet\UchinchiModul\dars8\dars8\obj\Debug\net10.0\dars8.AssemblyInfo.cs
+D:\Coding\DotNet\UchinchiModul\dars8\dars8\obj\Debug\net10.0\dars8.csproj.CoreCompileInputs.cache
+D:\Coding\DotNet\UchinchiModul\dars8\dars8\obj\Debug\net10.0\dars8.sourcelink.json
+D:\Coding\DotNet\UchinchiModul\dars8\dars8\bin\Debug\net10.0\dars8.exe
+D:\Coding\DotNet\UchinchiModul\dars8\dars8\bin\Debug\net10.0\dars8.deps.json
+D:\Coding\DotNet\UchinchiModul\dars8\dars8\bin\Debug\net10.0\dars8.runtimeconfig.json
+D:\Coding\DotNet\UchinchiModul\dars8\dars8\bin\Debug\net10.0\dars8.dll
+D:\Coding\DotNet\UchinchiModul\dars8\dars8\bin\Debug\net10.0\dars8.pdb
+D:\Coding\DotNet\UchinchiModul\dars8\dars8\obj\Debug\net10.0\dars8.dll
+D:\Coding\DotNet\UchinchiModul\dars8\dars8\obj\Debug\net10.0\refint\dars8.dll
+D:\Coding\DotNet\UchinchiModul\dars8\dars8\obj\Debug\net10.0\dars8.pdb
+D:\Coding\DotNet\UchinchiModul\dars8\dars8\obj\Debug\net10.0\dars8.genruntimeconfig.cache
+D:\Coding\DotNet\UchinchiModul\dars8\dars8\obj\Debug\net10.0\ref\dars8.dll
