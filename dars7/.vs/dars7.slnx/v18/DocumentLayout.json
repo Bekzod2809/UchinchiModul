@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Coding\\DotNet\\UchinchiModul\\dars7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E11EF3C5-F229-3F38-15BA-A027FAE177B4}|dars7\\dars7.csproj|d:\\coding\\dotnet\\uchinchimodul\\dars7\\dars7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E11EF3C5-F229-3F38-15BA-A027FAE177B4}|dars7\\dars7.csproj|solutionrelative:dars7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E11EF3C5-F229-3F38-15BA-A027FAE177B4}|dars7\\dars7.csproj|d:\\coding\\dotnet\\uchinchimodul\\dars7\\dars7\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E11EF3C5-F229-3F38-15BA-A027FAE177B4}|dars7\\dars7.csproj|solutionrelative:dars7\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\Coding\\DotNet\\UchinchiModul\\dars7\\dars7\\Book.cs",
+              "RelativeDocumentMoniker": "dars7\\Book.cs",
+              "ToolTip": "D:\\Coding\\DotNet\\UchinchiModul\\dars7\\dars7\\Book.cs",
+              "RelativeToolTip": "dars7\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T11:59:29.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Coding\\DotNet\\UchinchiModul\\dars7\\dars7\\Program.cs",
+              "RelativeDocumentMoniker": "dars7\\Program.cs",
+              "ToolTip": "D:\\Coding\\DotNet\\UchinchiModul\\dars7\\dars7\\Program.cs",
+              "RelativeToolTip": "dars7\\Program.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAkwE8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T11:46:20.513Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

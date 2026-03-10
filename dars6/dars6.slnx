@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="LINQ/LINQ.csproj" Id="f6995078-e869-4caa-9f84-4b547e6bfade" />
+    <Project Path="src/delegate/delegate.csproj" />
+  </Folder>
+</Solution>

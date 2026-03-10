@@ -1,0 +1,32 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+<div class="login-container">
+    <div class="glass-card">
+        <form>
+            <h2 class="text-center text-white mb-4">Xush kelibsiz</h2>
+
+            <div class="input-group">
+                <i class="bi bi-person"></i>
+                <input type="text" name="username" placeholder="Login" required>
+            </div>
+
+            <div class="input-group">
+                <i class="bi bi-lock"></i>
+                <input type="password" name="password" placeholder="Parol" required>
+            </div>
+            @if (ViewBag.Error != null)
+            {
+                <div class="error-box">
+                    <i class="bi bi-exclamation-triangle"></i> @ViewBag.Error
+                </div>
+            }
+            <button type="submit" class="login-btn">Kirish</button>
+
+            <div class="links">
+                <a href="#">Parolni unutdingizmi?</a>
+                <a href="#">Ro'yxatdan o'tish</a>
+            </div>
+        </form>
+    </div>
+</div>

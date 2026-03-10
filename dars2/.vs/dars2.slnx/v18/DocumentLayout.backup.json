@@ -54,9 +54,9 @@
               "Title": "PostsController.cs",
               "DocumentMoniker": "D:\\Coding\\DotNet\\UchinchiModul\\dars2\\src\\SocialMedia.Api\\Controllers\\PostsController.cs",
               "RelativeDocumentMoniker": "src\\SocialMedia.Api\\Controllers\\PostsController.cs",
-              "ToolTip": "D:\\Coding\\DotNet\\UchinchiModul\\dars2\\src\\SocialMedia.Api\\Controllers\\PostsController.cs*",
-              "RelativeToolTip": "src\\SocialMedia.Api\\Controllers\\PostsController.cs*",
-              "ViewState": "AgIAABoAAAAAAAAAAAAgwCoAAABAAAAAAAAAAA==",
+              "ToolTip": "D:\\Coding\\DotNet\\UchinchiModul\\dars2\\src\\SocialMedia.Api\\Controllers\\PostsController.cs",
+              "RelativeToolTip": "src\\SocialMedia.Api\\Controllers\\PostsController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwCkAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-05T12:38:12.959Z",
               "EditorCaption": ""
@@ -71,8 +71,7 @@
               "RelativeToolTip": "src\\SocialMedia.Api\\Services\\IPostService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-05T12:15:03.319Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-05T12:15:03.319Z"
             },
             {
               "$type": "Document",
@@ -84,8 +83,7 @@
               "RelativeToolTip": "src\\SocialMedia.Api\\Services\\PostService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-05T12:14:17.365Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-05T12:14:17.365Z"
             },
             {
               "$type": "Document",
@@ -95,10 +93,9 @@
               "RelativeDocumentMoniker": "src\\SocialMedia.Api\\AppDBContext\\Data.json",
               "ToolTip": "D:\\Coding\\DotNet\\UchinchiModul\\dars2\\src\\SocialMedia.Api\\AppDBContext\\Data.json",
               "RelativeToolTip": "src\\SocialMedia.Api\\AppDBContext\\Data.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAADrAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAADMAQAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-02-05T12:12:49.434Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-05T12:12:49.434Z"
             },
             {
               "$type": "Document",
@@ -134,8 +131,7 @@
               "RelativeToolTip": "src\\SocialMedia.Api\\Dtos\\PostCreateDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-05T12:05:59.631Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-05T12:05:59.631Z"
             },
             {
               "$type": "Document",

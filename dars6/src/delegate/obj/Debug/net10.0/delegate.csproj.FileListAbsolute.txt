@@ -1,0 +1,15 @@
+D:\Coding\DotNet\UchinchiModul\dars6\src\delegate\bin\Debug\net10.0\delegate.exe
+D:\Coding\DotNet\UchinchiModul\dars6\src\delegate\bin\Debug\net10.0\delegate.deps.json
+D:\Coding\DotNet\UchinchiModul\dars6\src\delegate\bin\Debug\net10.0\delegate.runtimeconfig.json
+D:\Coding\DotNet\UchinchiModul\dars6\src\delegate\bin\Debug\net10.0\delegate.dll
+D:\Coding\DotNet\UchinchiModul\dars6\src\delegate\bin\Debug\net10.0\delegate.pdb
+D:\Coding\DotNet\UchinchiModul\dars6\src\delegate\obj\Debug\net10.0\delegate.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\DotNet\UchinchiModul\dars6\src\delegate\obj\Debug\net10.0\delegate.AssemblyInfoInputs.cache
+D:\Coding\DotNet\UchinchiModul\dars6\src\delegate\obj\Debug\net10.0\delegate.AssemblyInfo.cs
+D:\Coding\DotNet\UchinchiModul\dars6\src\delegate\obj\Debug\net10.0\delegate.csproj.CoreCompileInputs.cache
+D:\Coding\DotNet\UchinchiModul\dars6\src\delegate\obj\Debug\net10.0\delegate.sourcelink.json
+D:\Coding\DotNet\UchinchiModul\dars6\src\delegate\obj\Debug\net10.0\delegate.dll
+D:\Coding\DotNet\UchinchiModul\dars6\src\delegate\obj\Debug\net10.0\refint\delegate.dll
+D:\Coding\DotNet\UchinchiModul\dars6\src\delegate\obj\Debug\net10.0\delegate.pdb
+D:\Coding\DotNet\UchinchiModul\dars6\src\delegate\obj\Debug\net10.0\delegate.genruntimeconfig.cache
+D:\Coding\DotNet\UchinchiModul\dars6\src\delegate\obj\Debug\net10.0\ref\delegate.dll

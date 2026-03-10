@@ -1,0 +1,15 @@
+D:\Coding\DotNet\UchinchiModul\dars7\dars7\bin\Debug\net10.0\dars7.exe
+D:\Coding\DotNet\UchinchiModul\dars7\dars7\bin\Debug\net10.0\dars7.deps.json
+D:\Coding\DotNet\UchinchiModul\dars7\dars7\bin\Debug\net10.0\dars7.runtimeconfig.json
+D:\Coding\DotNet\UchinchiModul\dars7\dars7\bin\Debug\net10.0\dars7.dll
+D:\Coding\DotNet\UchinchiModul\dars7\dars7\bin\Debug\net10.0\dars7.pdb
+D:\Coding\DotNet\UchinchiModul\dars7\dars7\obj\Debug\net10.0\dars7.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\DotNet\UchinchiModul\dars7\dars7\obj\Debug\net10.0\dars7.AssemblyInfoInputs.cache
+D:\Coding\DotNet\UchinchiModul\dars7\dars7\obj\Debug\net10.0\dars7.AssemblyInfo.cs
+D:\Coding\DotNet\UchinchiModul\dars7\dars7\obj\Debug\net10.0\dars7.csproj.CoreCompileInputs.cache
+D:\Coding\DotNet\UchinchiModul\dars7\dars7\obj\Debug\net10.0\dars7.sourcelink.json
+D:\Coding\DotNet\UchinchiModul\dars7\dars7\obj\Debug\net10.0\dars7.dll
+D:\Coding\DotNet\UchinchiModul\dars7\dars7\obj\Debug\net10.0\refint\dars7.dll
+D:\Coding\DotNet\UchinchiModul\dars7\dars7\obj\Debug\net10.0\dars7.pdb
+D:\Coding\DotNet\UchinchiModul\dars7\dars7\obj\Debug\net10.0\dars7.genruntimeconfig.cache
+D:\Coding\DotNet\UchinchiModul\dars7\dars7\obj\Debug\net10.0\ref\dars7.dll

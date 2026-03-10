@@ -1,0 +1,15 @@
+D:\Coding\DotNet\UchinchiModul\dars6\LINQ\bin\Debug\net10.0\LINQ.exe
+D:\Coding\DotNet\UchinchiModul\dars6\LINQ\bin\Debug\net10.0\LINQ.deps.json
+D:\Coding\DotNet\UchinchiModul\dars6\LINQ\bin\Debug\net10.0\LINQ.runtimeconfig.json
+D:\Coding\DotNet\UchinchiModul\dars6\LINQ\bin\Debug\net10.0\LINQ.dll
+D:\Coding\DotNet\UchinchiModul\dars6\LINQ\bin\Debug\net10.0\LINQ.pdb
+D:\Coding\DotNet\UchinchiModul\dars6\LINQ\obj\Debug\net10.0\LINQ.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\DotNet\UchinchiModul\dars6\LINQ\obj\Debug\net10.0\LINQ.AssemblyInfoInputs.cache
+D:\Coding\DotNet\UchinchiModul\dars6\LINQ\obj\Debug\net10.0\LINQ.AssemblyInfo.cs
+D:\Coding\DotNet\UchinchiModul\dars6\LINQ\obj\Debug\net10.0\LINQ.csproj.CoreCompileInputs.cache
+D:\Coding\DotNet\UchinchiModul\dars6\LINQ\obj\Debug\net10.0\LINQ.sourcelink.json
+D:\Coding\DotNet\UchinchiModul\dars6\LINQ\obj\Debug\net10.0\LINQ.dll
+D:\Coding\DotNet\UchinchiModul\dars6\LINQ\obj\Debug\net10.0\refint\LINQ.dll
+D:\Coding\DotNet\UchinchiModul\dars6\LINQ\obj\Debug\net10.0\LINQ.pdb
+D:\Coding\DotNet\UchinchiModul\dars6\LINQ\obj\Debug\net10.0\LINQ.genruntimeconfig.cache
+D:\Coding\DotNet\UchinchiModul\dars6\LINQ\obj\Debug\net10.0\ref\LINQ.dll
